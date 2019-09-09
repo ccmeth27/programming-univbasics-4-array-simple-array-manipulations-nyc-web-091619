@@ -35,7 +35,7 @@ def shift_with_args(ice_cream_brands)
   brands_removed = ice_cream_brands.shift(2)
 end
 
-
+my_favorite_things = ["raindrops on roses", "whiskers on kittens"]
 def using_concat()
 
 
