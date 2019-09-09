@@ -42,6 +42,12 @@ def using_concat(my_favorite_things, more_favs)
   all_my_favs = my_favorite_things.concat(more_favs)
 end
 
+list_of_programming_languages = ["Ruby", "JavaScript", "Java", "C#", "Objective C", "C++", "PHP"]
+
+def using_insert(list_of_programming_languages)
+  list_of_programming_languages.insert("Python")
+end
+
 haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
 
 def using
