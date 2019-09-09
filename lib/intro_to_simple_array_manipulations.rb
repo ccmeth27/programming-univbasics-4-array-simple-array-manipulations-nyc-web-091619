@@ -62,8 +62,8 @@ end
 
 instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
 
-def using_delete(instructors)
-  instructors.delete("Steven")
+def using_delete(instructors, no_offense_steven)
+  no_offense_steven = instructors.delete("Steven")
 end
 
 famous_robots = ["Johnny 5", "R2D2", "Robocop"]
