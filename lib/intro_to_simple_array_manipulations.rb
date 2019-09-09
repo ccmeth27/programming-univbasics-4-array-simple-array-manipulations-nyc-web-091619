@@ -16,3 +16,15 @@ continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oce
 def using_pop(continents)
   continents.pop 
 end
+
+dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
+
+
+
+
+
+
+
+
+
+
