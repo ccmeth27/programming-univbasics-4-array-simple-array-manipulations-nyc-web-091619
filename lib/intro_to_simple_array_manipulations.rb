@@ -45,7 +45,7 @@ end
 list_of_programming_languages = ["Ruby", "JavaScript", "Java", "C#", "Objective C", "C++", "PHP"]
 
 def using_insert(list_of_programming_languages, new_array)
-  new_array = list_of_programming_languages.insert(3, "Python")
+  new_array = list_of_programming_languages.insert(4, "Python")
 end
 
 haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
