@@ -60,4 +60,4 @@ def using_flatten(instruments)
   instruments.flatten 
 end
 
-
+instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
