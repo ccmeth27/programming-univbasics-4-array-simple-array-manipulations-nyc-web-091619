@@ -6,4 +6,4 @@ end
   
 bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
 
-def using_unshift(bouroughs_in_nyc, @new)
+def using_unshift(bouroughs_in_nyc, @new_neighbourhood)
